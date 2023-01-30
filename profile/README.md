@@ -1,12 +1,11 @@
-## Hi there 👋
+## 👋 Hola, soy @BautistaIza
 
-<!--
+👀 Desarrollo webs con PHP, Mysql y NodeJs (BackEnd) y HTML, CSS, JS, BOOTSTRAP y Jquery (FrontEnd).<br><br>
 
-**Here are some ideas to get you started:**
+🌱 Estudie desarrollo web en Coder House<br><br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+📫 Mandame un mail a consultas@bautistaizaguirre.com<br><br>
+
+🎞 Intagram » @bautistaizaguirreii<br><br>
+
+🐦 Twitter » @BautistaIza0<br><br>
